@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+}
+h1 {
+	color: white;
+	text-align: Center;
+}
+
+h2 {
+	color: darkorchid;
+	text-align: Center;
+}
+
+p {
+	color: white;
+	margin: 90px;
+	text-align: Center;
+}
+
